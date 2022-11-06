@@ -1,0 +1,5 @@
+variables, es una forma de almacenar el valor de algo para usarlo mas tarde y se puede configurar y restablecer a cualquier tipo.la palabra clave es var y podemos asignarle un valor como el signo =.
+string, son bloques de texto y siempre se definen entre comillas ya sea simple o doble cualquier texto entre comillas es una cadena o string.
+funciones, es similar a un procedimiento, es un conjunto de instrucciones que realiza una tarea o calcula un valor su palabra clave es funtion  seguida de =.
+declaraciones, nos ayuda a devolvernos a algo, la funcion detiene inmediatamente lo que esta haciendo y se devuelve a lo especificado.
+valores booleanos, alimentan el codigo binario y el nucleo de las computadoras lo que significa que tengo dos opciones activar o desactivar 0 o 1 verdadero o falso.
